@@ -1,3 +1,3 @@
-# Tribal Shield Production Build
+# Tribal Shield (Next.js Version)
 
-Live reporting interface for law enforcement in Indian Country.
+Production-ready app for officer login and incident reporting.
