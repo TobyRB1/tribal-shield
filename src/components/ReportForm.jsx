@@ -1,1 +1,0 @@
-// Report form for structured incident input
