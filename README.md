@@ -1,3 +1,3 @@
-# Tribal Shield (Next.js Version)
+# Tribal Shield
 
-Production-ready app for officer login and incident reporting.
+AI-powered reporting tool for law enforcement in Indian Country.
