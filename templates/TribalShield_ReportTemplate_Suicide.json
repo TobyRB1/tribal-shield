@@ -1,0 +1,25 @@
+{
+  "Incident Type": "Suicide Threats and Mental Health Crises",
+  "SOP Reference": "Section 5.2.3 - Mental Health Related Responses",
+  "Required Fields": [
+    "Date/Time of Call",
+    "Location of Subject",
+    "Subject Name & DOB",
+    "Statement/Behavior Prompting Concern",
+    "Weapons Present (Yes/No)",
+    "Subject Cooperative (Yes/No)",
+    "Transported for Evaluation (Yes/No)",
+    "Mental Health Resource Contacted",
+    "Family Notified (Yes/No)",
+    "Narrative Summary"
+  ],
+  "Reminders": [
+    "Always ensure officer safety first.",
+    "Use verbal de-escalation techniques.",
+    "Transport with a second officer if possible.",
+    "Ensure proper documentation for later follow-up and referral."
+  ],
+  "Auto-Citations": [
+    "Refer to BIA Handbook Section 5.2.3"
+  ]
+}

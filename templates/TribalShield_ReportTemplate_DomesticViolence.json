@@ -1,0 +1,35 @@
+{
+  "Incident Type": "Domestic Violence",
+  "SOP Reference": "Section 4.6 - Domestic Violence Investigations",
+  "Required Fields": [
+    "Date/Time of Incident",
+    "Officer ID & Name",
+    "Location (Auto-GPS populated)",
+    "Victim Name & DOB",
+    "Suspect Name & DOB",
+    "Relationship Between Parties",
+    "Description of Injuries (if any)",
+    "Statements from Victim/Suspect",
+    "Presence of Children",
+    "Photos Taken (Yes/No)",
+    "Medical Treatment Required (Yes/No)",
+    "Protective Order In Place (Yes/No)",
+    "Protective Order Issued (Yes/No)",
+    "Weapons Involved (Yes/No)",
+    "Arrest Made (Yes/No)",
+    "Reason If No Arrest",
+    "Evidence Collected (List)",
+    "Victim Services Referral Made (Yes/No)",
+    "Narrative Summary (auto-expanded)"
+  ],
+  "Reminders": [
+    "Notify victim of their right to petition for a protective order.",
+    "Ensure scene is safe before interview.",
+    "Follow tribal and federal mandatory arrest laws if applicable.",
+    "Ensure documentation is complete for court submission.",
+    "If children are present, consider notifying social services."
+  ],
+  "Auto-Citations": [
+    "Refer to BIA Handbook Section 4.6 for mandatory procedures."
+  ]
+}

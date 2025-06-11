@@ -1,0 +1,27 @@
+{
+  "Incident Type": "Missing and Murdered Indigenous Persons (MMIP)",
+  "SOP Reference": "Section 5.7 - Missing Persons and Death Investigations",
+  "Required Fields": [
+    "Date/Time Reported Missing",
+    "Reporting Party",
+    "Last Known Location",
+    "Time Last Seen",
+    "Description of Person",
+    "Known Risks (e.g., domestic violence, past behavior)",
+    "Initial Search Conducted (Yes/No)",
+    "Tribal/Local Agencies Notified",
+    "Amber Alert Criteria Met (Yes/No)",
+    "Photograph Provided (Yes/No)",
+    "Social Media / Flyer Distribution (Yes/No)",
+    "Narrative Summary"
+  ],
+  "Reminders": [
+    "Coordinate with local, tribal, and federal agencies immediately.",
+    "Follow missing persons checklist and timeline.",
+    "Use NCIC/Tribal database input if available.",
+    "Document search actions and all contact attempts."
+  ],
+  "Auto-Citations": [
+    "Refer to BIA Handbook Section 5.7"
+  ]
+}
