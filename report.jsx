@@ -1,4 +1,4 @@
-// pages/report.jsx yo
+// pages/report.jsx 
 import { useState } from 'react'
 
 const incidentOptions = [
